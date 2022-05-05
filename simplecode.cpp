@@ -4,7 +4,7 @@ int main()
 {
     char op;
     float num1, num2;
-    cout << "Enter operator either + or - or * or /: ";
+    cout << "Nhập operator either + or - or * or /: ";
     cin >> op;
     cout << "\nEnter two operands: ";
     cin >> num1 >> num2;
